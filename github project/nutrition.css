@@ -36,7 +36,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: rgb(168, 207, 235);
+    color: rgb(169, 207, 235);
     transition: 1.02s;
 }
 .container {
